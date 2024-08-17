@@ -7,6 +7,6 @@
 ### Course Name       : Introduction to Programming
 ## 
 ## Software Info
-### Title: PTools
-### Author: Marcelino Emad
-### Description: Calculator integrated with Notepad using Python
+### Title       : PTools
+### Author      : Marcelino Emad
+### Description : Calculator integrated with Notepad using Python
