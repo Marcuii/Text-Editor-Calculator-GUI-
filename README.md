@@ -5,7 +5,7 @@
 ### Student           : Marcelino Emad Ibrahim
 ### Course Code       : CSCE002
 ### Course Name       : Introduction to Programming
-## .
+## 
 ## Software Info
 ### Title: PTools
 ### Author: Marcelino Emad
